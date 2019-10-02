@@ -446,6 +446,9 @@ footer p {
     .experiences {
         padding: 0em 1em;
     }
+    .w-50{
+        padding:0em 2em;
+    }
     .fond, .fond2 {
         background: -webkit-gradient(linear, left bottom, left top, from(#f64a96), to(#57615d));
         background: -o-linear-gradient(bottom, #f64a96, #57615d);

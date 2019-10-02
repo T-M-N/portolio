@@ -417,9 +417,11 @@ footer p {
     .experiences section section p {
         margin-top: 0px;
     }
-}
-
-@media screen and (max-width:780px) {
+    .diapo {
+        -webkit-box-shadow: 0px 7px 5px 0px rgba(153, 153, 153, 1);
+        -moz-box-shadow: 0px 7px 5px 0px rgba(153, 153, 153, 1);
+        box-shadow: 0px 7px 5px 0px rgba(153, 153, 153, 1);
+    }
     .diapo .text-slider h2 {
         font-size: 1.5em;
     }

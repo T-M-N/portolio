@@ -13,6 +13,11 @@ a {
     color: #000;
 }
 
+#experiences:target {
+    padding-top: 7em;
+    margin-top: -5em;
+}
+
 /**
 *   Header, menu
 **/

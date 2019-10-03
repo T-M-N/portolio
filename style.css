@@ -411,12 +411,15 @@ footer p {
     .experiences section h2 {
         margin-top: 0px;
     }
+    .slider {
+        padding: 1em;
+    }
     .diapo {
         height: 50vh;
         text-align: center;
-        -webkit-box-shadow: 0px 7px 8px 0px rgba(153, 153, 153, 1);
-        -moz-box-shadow: 0px 7px 8px 0px rgba(153, 153, 153, 1);
-        box-shadow: 0px 7px 8px 0px rgba(153, 153, 153, 1);
+        -webkit-box-shadow: 0px 5px 10px 13px rgba(153, 153, 153, 1);
+        -moz-box-shadow: 0px 5px 10px 13px rgba(153, 153, 153, 1);
+        box-shadow: 0px 5px 10px 13px rgba(153, 153, 153, 1);
     }
     .diapo .text-slider h2 {
         font-size: 1.5em;

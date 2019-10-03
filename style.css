@@ -271,7 +271,7 @@ footer p {
     font-weight: 600;
     letter-spacing: -0.06em;
     word-spacing: 0.2em;
-    font-size: 3em;
+    font-size: 2.3em;
 }
 
 .experiences section h2 {
@@ -285,7 +285,7 @@ footer p {
 }
 
 .diapo .text-slider h2, .diapo .text-slider p {
-    margin-left: 135px;
+    margin-left: 130px;
 }
 
 .diapo .text-slider span {
